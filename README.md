@@ -1,4 +1,4 @@
-- 👋 Hi, I’m x⁷
+- 👋 Hi, I’m ⁷
 - 👀 I’m interested in copying code
 - 🌱 I’m currently learning notepad++
 - 💞️ I’m looking to collaborate on projects that im not working on
