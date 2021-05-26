@@ -2,4 +2,4 @@
 - 👀 I’m interested in copying code
 - 🌱 I’m currently learning notepad++
 - 💞️ I’m looking to collaborate on projects that im not working on
-- 📫 You can reach out to me on twitter @777777777___ (idk why you would want to do that)
+- 📫 You can reach out to me on twitter (idk why you would want to do that)
